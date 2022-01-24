@@ -1,7 +1,6 @@
 # WindowsPayload 
 
-## Tool to generate stable undetected payload
-## Sometime you nedd extra obfuscation
+ Tool to generate stable undetected payload. Sometimes you need extra obfuscation
 
 
 # ScreenShots
