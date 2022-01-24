@@ -23,10 +23,10 @@ Don t Upload to Virus Total :)
 
 
 # How to install + use
-* git clone https://github.com/youhacker55/PayGen/
+* git clone https://github.com/drgreenthumb93/PayloadGen.git
 * cd PayGen
 * python3 generate.py
-* if you are On linux Install Py on Wine and Compile using pyinstaller (I recommend to Use Windows For Compiling)
+* if you are On linux Install Py on Wine and MINGW64 and Compile using pyinstaller (I recommend to Use Windows For Compiling)
 
 ## Features
 - [x] Create Payload With MsfVenom Automated
