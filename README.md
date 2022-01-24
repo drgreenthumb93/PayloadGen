@@ -1,9 +1,7 @@
 # WindowsPayload 
 ## Tool To generate Stable Undetected Payload
 
-<p align="center">
-  <b> Follow on Social Media Platforms </b>
-</p>
+
 # ScreenShots
 
 ![](/Screenshot/paygen.png)
