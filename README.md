@@ -1,19 +1,8 @@
 # windowsPayload
-Tool To generate Stable Undetected Payload
+Tool to generate stable undetected payload
 
-Don t Upload to Virus Total :) 
+Don't Upload to Virus Total!
 
-
-
-<p align="center">
-  <b> Follow on Social Media Platforms </b>
-</p>
-
-
-<p align="center">
-<p align="center">
-<a href="https://www.facebook.com/achihemek.achihemek/"><img title="GitHub version" src="https://img.shields.io/badge/-Facebook-blue" ></a> 
-</p>
 
 
 # ScreenShots
@@ -23,8 +12,8 @@ Don t Upload to Virus Total :)
 
 
 # How to install + use
-* git clone https://github.com/youhacker55/PayGen/
-* cd PayGen
+* git clone https://github.com/drgreenthumb93/PayloadGen
+* cd PayloadGen
 * python3 generate.py
 * if you are On linux Install Py on Wine and Compile using pyinstaller (I recommend to Use Windows For Compiling)
 
