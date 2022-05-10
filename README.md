@@ -10,7 +10,7 @@ Don't Upload to Virus Total!
 * git clone https://github.com/drgreenthumb93/PayloadGen
 * cd PayloadGen
 * python3 generate.py
-* if you are On linux Install Py on Wine and Compile using pyinstaller (I recommend to Use Windows For Compiling)
+* if you are On linux Install Py on Wine and Compile using pyinstaller (I recommend to use Windows for compiling)
 
 ## Features
 - [x] Create Payload With MsfVenom Automated
